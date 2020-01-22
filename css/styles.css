@@ -1,0 +1,26 @@
+
+#walrus-hidden {
+    display: none;
+  }
+  
+.clickable {
+cursor: pointer;
+color: #0088cc;
+}
+  
+.clickable:hover {
+text-decoration: underline;
+}
+
+.hideMe {
+    cursor: pointer;
+    color: black;
+}
+
+.hideMe:hover {
+    text-decoration: underline;
+}
+
+#secret {
+    display:none;
+}
